@@ -1,1 +1,1 @@
-my archlinux dotfiles.
+my artixlinux dotfiles.
